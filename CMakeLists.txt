@@ -294,6 +294,6 @@ set(SOURCE_FILES
     ECF/TermMaxTimeOp.cpp
     ECF/TermMaxTimeOp.h
     ECF/TermStagnationOp.cpp
-    ECF/TermStagnationOp.h Scheduling/SchedEvalOp.cpp Scheduling/SchedEvalOp.h)
+    ECF/TermStagnationOp.h )
 
 add_library(ECF ${SOURCE_FILES})

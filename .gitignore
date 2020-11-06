@@ -3,3 +3,4 @@
 *.lo
 .libs/
 *.la
+build/
